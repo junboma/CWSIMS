@@ -21,6 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # ******************** 动态配置 ******************** #
 # ================================================= #
 
+# from conf.env import *
 from conf.env import *
 
 # Quick-start development settings - unsuitable for production
